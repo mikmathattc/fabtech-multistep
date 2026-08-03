@@ -1,0 +1,30 @@
+{
+  "name": "ATTC FabTech Tip Cost Assessment",
+  "short_name": "ATTC Assessment",
+  "description": "Interactive contact tip changeover cost assessment for FabTech 2026 Las Vegas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f5f8",
+  "theme_color": "#005BA1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ]
+}
